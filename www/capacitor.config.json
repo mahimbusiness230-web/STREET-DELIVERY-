@@ -1,0 +1,7 @@
+{
+  "appId": "com.streetdelivery.game",
+  "appName": "Street Delivery",
+  "webDir": "www",
+  "backgroundColor": "#0a0e34",
+  "android": { "allowMixedContent": false }
+}
